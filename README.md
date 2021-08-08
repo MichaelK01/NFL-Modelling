@@ -5,9 +5,9 @@ This project uses multiple linear regression to predict the score in NFL games, 
 
 The project is coded entirely in Python 3.8.5 using the Jupyter Notebook platform. Models are created using sklearn, with support from numpy and matplotlib.
 
-The project is a collaborative effort between Aaron Tracey, Rhys Willis, and I. This repository is forked from the main project repository, and documents my contribution to the project (with the exception of 'Model Iteration 1', which was a collaborative effort).
+The project is a collaborative effort between Aaron Tracey, Rhys Willis, and I. This repository documents my contribution to the project (with the exception of 'Model Iteration 1', which was a collaborative effort). The main project can be found [here](https://github.com/aaron-tracey/SportsBettingRobot).
 
-The full project report can be found in the file titled 'Project Report'.
+The full project report can be found in the file titled 'Project Report'. The pictures below give an idea of project content.
 
 ---
 
